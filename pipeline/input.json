@@ -1,0 +1,167 @@
+{
+  "files": [
+    {
+      "file_id": "of_reynaert_the_fox",
+      "document_metadata": {
+        "type": "book",
+        "authors": [
+          {
+            "family_name": "Bouwman",
+            "given_name": "A."
+          },
+          {
+            "family_name": "Besamusca",
+            "given_name": "B."
+          }
+        ],
+        "date": "2009",
+        "title": "Of Reynaert the Fox: Text and facing translation of Van den vos Reynaerde",
+        "publisher": "Amsterdam University Press",
+        "doi": "10.5117/9789089640246",
+        "url": "https://doi.org/10.5117/9789089640246",
+        "file_path": "data/of_reynaert_the_fox.md"
+      },
+      "automated_process_metadata": {
+        "person_name": "aschimmenti",
+        "llm_model_version": "gpt-4o-mini"
+      },
+      "questions": [
+        "What arguments do Bouwman and Besamusca advance regarding Van den vos Reynaerde? Which interpretive framework do they employ? What are the central entities, historical figures, literary works, and textual relationships that structure their analysis?",
+        "What position do Bouwman and Besamusca take concerning the identity of the author of Van den vos Reynaerde, referred to as the 'Reynaertdichter'? What biographical information do they provide or suggest regarding the author's birth date, death location, linguistic competencies, social status, and occupation? When and where do they propose the poem was composed? What historical, political, or cultural context do they identify for the poem's creation? Which literary sources, traditions, or influences do they identify as relevant to the composition?",
+        "What methodological approaches do Bouwman and Besamusca employ to substantiate their arguments? What types of evidence (textual, linguistic, historical, codicological, or other) do they present? Which analytical techniques or scholarly practices do they utilize? What degree of certainty or epistemic qualification do they express regarding their claims?"
+      ]
+    },
+    {
+      "file_id": "peeters_1973",
+      "document_metadata": {
+        "type": "book_chapter",
+        "authors": [
+          {
+            "family_name": "Peeters",
+            "given_name": "Léopold"
+          }
+        ],
+        "date": "1999",
+        "title": "Historiciteit en chronologie in 'Van den vos Reynaerde'",
+        "start_page": "135",
+        "end_page": "165",
+        "container": {
+          "type": "book",
+          "title": "'Pade crom ende menichfoude'. Het Reynaert-onderzoek in de tweede helft van de twintigste eeuw",
+          "editors": [
+            {
+              "family_name": "van Dijk",
+              "given_name": "Hans"
+            },
+            {
+              "family_name": "Wackers",
+              "given_name": "Paul"
+            }
+          ],
+          "publisher": "Hilversum",
+          "series": {
+            "title": "Middeleeuwse studies en bronnen",
+            "volume": "67"
+          }
+        },
+        "file_path": "data/peeters_1973.md"
+      },
+      "automated_process_metadata": {
+        "person_name": "aschimmenti",
+        "llm_model_version": "gpt-4o-mini"
+      },
+      "questions": [
+        "What arguments does Peeters advance regarding the historicity and chronology of Van den vos Reynaerde? Which interpretive framework does he employ? What are the central entities, historical figures, events, literary works, and textual relationships that structure his analysis?",
+        "What position does Peeters take concerning William van Baudelo as the author of Van den vos Reynaerde, referred to as the 'Reynaertdichter'? What biographical information does he provide regarding William van Baudelo's birth date, death location, linguistic competencies, social status, and occupation? When and where does he propose the poem was composed? What historical, political, or cultural context does he identify for the poem's creation? Which literary sources, traditions, or influences does he identify as relevant to the composition? How does he establish connections between William van Baudelo and the authorship of the poem?",
+        "What methodological approaches does Peeters employ to substantiate his arguments regarding William van Baudelo's authorship? What types of evidence (textual, linguistic, historical, biographical, codicological, or other) does he present? Which analytical techniques or scholarly practices does he utilize? What degree of certainty or epistemic qualification does he express regarding his claims?"
+      ]    
+    },
+    {
+      "file_id": "daele_2005",
+      "document_metadata": {
+        "type": "journal_article",
+        "authors": [
+          {
+            "family_name": "Van Daele",
+            "given_name": "Rik"
+          }
+        ],
+        "date": "2005",
+        "title": "De robotfoto van de Reynaertdichter Bricoleren met de overgeleverde wrakstukken: 'cisterciënzers', 'grafelijke hof' en 'Reynaertmaterie'",
+        "container": {
+          "type": "journal",
+          "title": "Tiecelijn",
+          "volume": "18"
+        },
+        "file_path": "data/van_daele_2005.md"
+      },
+      "automated_process_metadata": {
+        "person_name": "aschimmenti",
+        "llm_model_version": "gpt-4o-mini"
+      },
+      "questions": [
+        "What arguments does Van Daele advance regarding the authorship of Van den vos Reynaerde? Which interpretive framework does he employ, and what does his metaphor of creating a 'robotfoto' (composite sketch) suggest about his methodological approach? What are the central entities, historical figures, institutions (such as Cistercian connections and the comital court), literary works, and textual relationships that structure his analysis?",
+        "What position does Van Daele take concerning William as the author of Van den vos Reynaerde, referred to as the 'Reynaertdichter'? What biographical information does he provide regarding this William's birth date, death location, linguistic competencies, social status, and occupation? When and where does he propose the poem was composed? What historical, political, religious, or cultural context does he identify for the poem's creation, particularly regarding Cistercian connections and the comital court? Which literary sources, traditions (including the 'Reynaertmaterie'), or influences does he identify as relevant to the composition? How does he establish connections between this William and the authorship of the poem?",
+        "What methodological approaches does Van Daele employ to substantiate his arguments, particularly in his bricolage method of assembling fragmentary evidence? What types of evidence (textual, linguistic, historical, biographical, institutional, codicological, or other) does he present? Which analytical techniques or scholarly practices does he utilize? What degree of certainty or epistemic qualification does he express regarding his claims about the author's identity?"
+      ]
+    },
+    {
+      "file_id": "wackers_2016",
+      "document_metadata": {
+        "type": "journal_article",
+        "authors": [
+          {
+            "family_name": "Wackers",
+            "given_name": "Paul"
+          }
+        ],
+        "date": "2016",
+        "title": "Wat staat er eigenlijk? Over het editeren van Van den vos Reynaerde",
+        "container": {
+          "type": "journal",
+          "title": "Tiecelijn",
+          "volume": "29"
+        },
+        "file_path": "data/wackers_2016.md"
+      },
+      "automated_process_metadata": {
+        "person_name": "aschimmenti",
+        "llm_model_version": "gpt-4o-mini"
+      },
+      "questions": [
+        "In Wat staat er eigenlijk? Over het editeren van Van den vos Reynaerde, the subject of inquiry is the Van den vos Reynaerde. Does the author talk about the authorship attribution? What is the main point of the authors? What are the entities that take part in his discourse?",
+        "What does Paul Wackers say about the 'acrostic problem', and how does he shape his interpretation of the authorship? What do they say about the context of the creation of the poem?",
+        "How does Paul Wackers substantiate his claims? What proofs does he provide? Which techniques does he use? What degree of certainty does he have?"
+      ]
+    },
+    {
+      "file_id": "wackers_2000",
+      "document_metadata": {
+        "type": "journal_article",
+        "authors": [
+          {
+            "family_name": "Wackers",
+            "given_name": "Paul"
+          }
+        ],
+        "date": "2000",
+        "title": "Medieval French and Dutch Renardian Epics: Between Literature and Society",
+        "container": {
+          "type": "journal",
+          "title": "Tiecelijn",
+          "volume": "29"
+        },
+        "file_path": "data/wackers_2000.md"
+      },
+      "automated_process_metadata": {
+        "person_name": "aschimmenti",
+        "llm_model_version": "gpt-4o-mini"
+      },
+      "questions": [
+        "In Medieval French and Dutch Renardian Epics: Between Literature and Society, the subject of inquiry is the Van den vos Reynaerde. What is the main point of the authors about the creation of the Van den Vos Reynaerde? What are the entities that take part in the discourse?",
+        "What does Paul Wackers say about the audience, production, influences and reception of the Van den vos Reynaerde, and how does he justify his claims about it? What do they say about the context of the creation of the poem?",
+        "How does Paul Wackers substantiate his claims? What proofs does he provide? Which techniques does he use? What degree of certainty does he have?"
+      ]
+    }
+  ]
+}
